@@ -1,3 +1,3 @@
 # AngelGarcia_Ex_UD3
-> [IMPORTANT!]
+> [!NOTE]
 > No puedo subir el JavaDoc
